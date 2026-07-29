@@ -23,6 +23,7 @@ Hello! I'm **Krishna Singh**, a 4th-year **Computer Science and Engineering (B.T
 - 📬 **Email**: [ks6511222@gmail.com](mailto:ks6511222@gmail.com)
 - 💼 **LinkedIn**: [krishna-singh-20bbb6231](https://www.linkedin.com/in/krishna-singh-20bbb6231)
 - 🐙 **GitHub**: [@K092005](https://github.com/K092005)
+- 🌐 **Live Website**: [k092005.github.io/krishna-singh-portfolio](https://k092005.github.io/krishna-singh-portfolio/)
 
 ---
 
