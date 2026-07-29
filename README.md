@@ -1,87 +1,107 @@
-# 🚀 Krishna Singh | Developer Portfolio
+<div align="center">
 
-Welcome to my personal developer portfolio website! Built with modern web technologies, featuring interactive animations, crisp dark-mode UI, and detailed showcases of my core projects.
+# 🌐 Krishna Singh – Personal Portfolio
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Full-Stack Developer | Agentic AI Enthusiast | CSE Undergraduate (2023–2027)**
+
+[![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
+
+</div>
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Krishna Singh**! I'm currently a 4th-year **Computer Science and Engineering (CSE)** student (B.Tech 2023 – 2027) passionate about building scalable full-stack applications, intelligent AI tools, and sleek user interfaces.
+Hello! I'm **Krishna Singh**, a 4th-year **Computer Science and Engineering (B.Tech 2023 – 2027)** student. I specialize in building full-stack web applications, database architectures, and autonomous Agentic AI systems.
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering (2023 – 2027)
-- 💻 **Core Focus**: Full-Stack Web Development, Agentic AI Systems, & Database Architecture
-- 🌐 **Portfolio Link**: [https://github.com/K092005/krishna-singh-portfolio](https://github.com/K092005/krishna-singh-portfolio)
+- 🎓 **Degree**: B.Tech in Computer Science & Engineering (2023 – 2027)
+- 💡 **Core Expertise**: Full-Stack Web Development, Multi-Agent Systems, Database Optimization
+- 📬 **Email**: [ks6511222@gmail.com](mailto:ks6511222@gmail.com)
+- 💼 **LinkedIn**: [krishna-singh-20bbb6231](https://www.linkedin.com/in/krishna-singh-20bbb6231)
+- 🐙 **GitHub**: [@K092005](https://github.com/K092005)
 
 ---
 
-## 🛠️ Featured Projects
+## 🛠️ Showcase Projects
 
 ### 🧠 1. AI-Powered Travel Assistant (Agentic AI)
-An intelligent Agentic AI system that autonomously plans personalized travel itineraries based on budget, duration, interests, and climate.
-- **Key Features**: Multi-agent collaboration (Preference, Research, Weather, Itinerary, Decision agents) controlled by a central Coordinator.
-- **Tech Stack**: Python, Streamlit, Gemini API, Serper API, Weather API, Unsplash API.
+An autonomous multi-agent travel assistant that generates reasoning-based itineraries with real-time weather forecasts and destination visuals.
+
+| Agent | Responsibility |
+|---|---|
+| **PreferenceAgent** | Gathers & validates user budget, duration, interests, and climate preference |
+| **ResearchAgent** | Searches destinations using **Serper API** & **Gemini** LLM reasoning |
+| **WeatherAgent** | Fetches live weather forecasts via **Weather Forecasting API** |
+| **ItineraryAgent** | Generates customized day-wise itineraries tailored to user interests |
+| **DecisionAgent** | Ranks and selects optimal destinations via a multi-criteria reasoning matrix |
+| **Coordinator** | Manages agent communication, execution sequencing, and data integrity |
+
+- **Tech Stack**: Python, Streamlit, Google Gemini API, Serper API, Weather API, Unsplash API.
+
+---
 
 ### 🏥 2. MediTrack – Clinic Management Web Application
-A full-stack clinic management system serving 100+ users through secure role-based workflows for Admin, Doctor, and Patient access.
-- **Key Features**: 40% database efficiency improvement through query optimization, schema restructuring, and indexed joins. REST APIs with JWT authentication.
+A secure full-stack clinic management system supporting 100+ active users with role-based access for Admins, Doctors, and Patients.
+- **Database Efficiency**: Improved query speeds by 40% using MySQL schema restructuring, indexed joins, and query optimization.
+- **Security**: Built scalable REST APIs with JWT authentication for secure access control.
 - **Tech Stack**: React.js, Flask, MySQL, JWT, REST APIs.
 
+---
+
 ### 🚆 3. Pune Metro Ticketing System
-A full-stack web application for booking Pune Metro tickets with secure data transactions.
-- **Key Features**: Uses MySQL stored procedures, triggers, cursors, and transaction control commands to handle concurrent bookings safely.
+Full-stack web application designed for seamless Pune Metro ticket booking.
+- **Data Integrity**: Implemented stored procedures, triggers, and cursors to handle complex data transactions securely.
+- **Concurrency**: Utilized transaction control commands for parallel booking management on a normalized MySQL schema.
 - **Tech Stack**: React.js, Flask, Python, MySQL.
+
+---
 
 ### 📚 4. EduSync – Student Collaboration Platform
 A Java-based multi-user collaboration platform supporting 50+ concurrent users.
-- **Key Features**: Modular object-oriented architecture with JDBC-based database operations ensuring high data consistency.
+- **Architecture**: Designed with a modular object-oriented architecture to maximize maintainability and code reusability.
+- **Database Consistency**: Implemented and tested JDBC-based database operations with MySQL.
 - **Tech Stack**: Java, JavaFX, JDBC, MySQL.
 
 ---
 
-## ⚡ Tech Stack & Arsenal
+## ⚡ Tech Stack & Skills
 
-- **Languages**: C, C++, Python, Java, JavaScript, TypeScript
-- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Framer Motion
-- **Backend & APIs**: Flask, REST APIs, JWT, Agentic AI Frameworks
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Git, GitHub, VS Code, Linux, Streamlit
+```
+Languages         :: C | C++ | Python | Java | JavaScript | TypeScript
+Frontend          :: React.js | HTML5 | CSS3 | Tailwind CSS | Framer Motion
+Backend & APIs    :: Flask | REST APIs | JWT | Gemini API | Agentic AI Architecture
+Databases         :: MySQL | MongoDB | Database Normalization | Stored Procedures
+Tools & OS        :: Git | GitHub | VS Code | Linux | Streamlit
+```
 
 ---
 
-## 💻 Running the Project Locally
-
-Follow these steps to run the portfolio website on your local machine:
+## 💻 Quick Start & Running Locally
 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/K092005/krishna-singh-portfolio.git
 
-# 2. Navigate into the project folder
+# 2. Navigate into directory
 cd krishna-singh-portfolio
 
 # 3. Install dependencies
 npm install
 
-# 4. Start the local development server
+# 4. Start local development server
 npm run dev
 ```
 
-The application will be available at `http://localhost:8080/` (or your Vite local port).
+Visit `http://localhost:8080/` in your browser to view the application.
 
 ---
 
-## 📬 Connect with Me
+<div align="center">
 
-- **GitHub**: [github.com/K092005](https://github.com/K092005)
-- **LinkedIn**: [linkedin.com/in/krishna-singh-20bbb6231](https://www.linkedin.com/in/krishna-singh-20bbb6231)
-- **Email**: [ks6511222@gmail.com](mailto:ks6511222@gmail.com)
+Designed & Developed by **Krishna Singh** © 2026
 
----
-
-© 2026 Krishna Singh. All rights reserved.
+</div>
