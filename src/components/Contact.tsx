@@ -41,7 +41,7 @@
            transition={{ duration: 0.5 }}
            className="text-center mb-16"
          >
-           <span className="text-primary font-mono text-sm">{'// Get In Touch'}</span>
+           
            <h2 className="font-display text-4xl md:text-5xl font-bold mt-2 mb-4">
              Let's <span className="gradient-text">Connect</span>
            </h2>

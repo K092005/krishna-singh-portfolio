@@ -8,28 +8,34 @@
  
    const timelineItems = [
      {
-       year: '2022',
+       year: '2023',
        title: 'Started B.Tech Journey',
-       description: 'Began Computer Science & Engineering at MIT WPU',
+       description: 'Began Computer Science & Engineering at MIT WPU after completing 12th',
        icon: GraduationCap,
      },
      {
-       year: '2023',
+       year: '2024',
        title: 'Deep Dive into Web Dev',
        description: 'Mastered HTML, CSS, JavaScript and modern frameworks',
        icon: Code2,
      },
      {
-       year: '2024',
+       year: '2025',
        title: 'Building & Creating',
        description: 'Working on projects and strengthening core CS fundamentals',
        icon: Code2,
      },
      {
-       year: '2025',
+       year: '2026',
        title: 'Current Year',
-       description: '3rd Year - Ready for new opportunities and challenges',
+       description: '4th Year - Ready for new opportunities and challenges',
        icon: Calendar,
+     },
+     {
+       year: '2027',
+       title: 'Passout Year',
+       description: 'Expected B.Tech CSE graduation from MIT WPU',
+       icon: GraduationCap,
      },
    ];
  
@@ -46,7 +52,6 @@
            transition={{ duration: 0.5 }}
            className="text-center mb-16"
          >
-           <span className="text-primary font-mono text-sm">{'// About Me'}</span>
            <h2 className="font-display text-4xl md:text-5xl font-bold mt-2 mb-4">
              Get to Know <span className="gradient-text">Me</span>
            </h2>
@@ -78,9 +83,6 @@
                    internet. That curiosity has evolved into a commitment to creating 
                    meaningful digital experiences that make a difference.
                  </p>
-                 <p className="font-mono text-sm text-primary/80">
-                   // still debugging life, one commit at a time
-                 </p>
                </div>
  
                {/* Quick Info Cards */}
@@ -98,7 +100,8 @@
                  <div className="p-4 rounded-xl bg-muted/30 border border-border/50">
                    <Calendar className="w-5 h-5 text-primary mb-2" />
                    <p className="text-sm text-muted-foreground">Year</p>
-                   <p className="font-medium text-foreground">3rd Year</p>
+                   <p className="font-medium text-foreground">4th Year</p>
+                   <p className="text-xs text-primary/70 font-mono">Passout: 2027</p>
                  </div>
                  <div className="p-4 rounded-xl bg-muted/30 border border-border/50">
                    <Code2 className="w-5 h-5 text-primary mb-2" />
