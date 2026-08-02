@@ -14,6 +14,15 @@ interface Project {
 
 const projects: Project[] = [
   {
+    title: 'SignSync – Hand Gesture Recognition',
+    description:
+      'Real-time sign language translator that uses webcam-based hand tracking with MediaPipe and a trained ML model to convert hand gestures into text and speech. Features live confidence indicators, multi-language support (English & Hindi), word history, and text-to-speech powered by gTTS. Built with a Flask + SocketIO backend streaming video frames to a modern dark-themed UI.',
+    techStack: ['Python', 'Flask', 'MediaPipe', 'Scikit-learn', 'OpenCV', 'SocketIO', 'gTTS'],
+    githubUrl: 'https://github.com/K092005/SignSync',
+    featured: true,
+    date: 'Apr 2026',
+  },
+  {
     title: 'AI-Powered Travel Assistant',
     description:
       'Agentic AI system that autonomously plans personalized trips using multi-agent collaboration. Agents handle preference gathering, destination research, weather analysis, itinerary generation, and intelligent decision-making — all coordinated through a central module. Integrates Gemini API for reasoning, Serper for real-time travel data, Weather API for forecasts, and Unsplash for destination visuals.',
